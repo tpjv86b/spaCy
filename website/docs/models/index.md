@@ -122,7 +122,7 @@ oracle allows multiple states to be 0 cost. This is defined as follows, where
    Anders Søgaard, Yoav Goldberg (2016)
 6. [An Improved Non-monotonic Transition System for Dependency Parsing {#fn-6}](https://www.semanticscholar.org/paper/An-Improved-Non-monotonic-Transition-System-for-De-Honnibal-Johnson/4094cee47ade13b77b5ab4d2e6cb9dd2b8a2917c).
    Matthew Honnibal, Mark Johnson (2015)
-7. [A Fast and Accurate Dependency Parser using Neural Networks {#fn-7}](http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf).
+7. [A Fast and Accurate Dependency Parser using Neural Networks {#fn-7}](https://nlp.stanford.edu/pubs/emnlp2014-depparser.pdf).
    Danqi Cheng, Christopher D. Manning (2014)
 8. [Parsing the Wall Street Journal using a Lexical-Functional Grammar and Discriminative Estimation Techniques {#fn-8}](https://www.semanticscholar.org/paper/Parsing-the-Wall-Street-Journal-using-a-Lexical-Fu-Riezler-King/0ad07862a91cd59b7eb5de38267e47725a62b8b2).
    Stefan Riezler et al. (2002)
